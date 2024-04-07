@@ -47,17 +47,16 @@
       year: 2015-Atual
       description:
         - title: Ensino, Engenharia de Controle e Automação
-        contents:
-        - Sistemas Digitais
-        - Sistemas Embarcados I
+          contents:
+            - Sistemas Digitais
+            - Sistemas Embarcados I
         - title: Ensino, Curso Técnico em Eletromecânica
-        contents:
-        - Eletricidade Básica
-        - Circuitos Elétricos
+          contents:
+            - Eletricidade Básica
+            - Circuitos Elétricos
         - title: Direção e administração
-        contents:
-        - Coordenação da Unidade Acadêmica de Indústria
-        - title: Projetos de Pesquisa
+          contents:
+            - Coordenação da Unidade Acadêmica de Indústria
 
 - title: Linhas e Projetos de Pesquisa
   type: nested_list

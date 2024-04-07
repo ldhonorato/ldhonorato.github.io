@@ -1,4 +1,4 @@
-- title: General Information
+- title: Informações Gerais
   type: map
   contents:
     - name: Nome
@@ -28,7 +28,7 @@
       institution: Escola Politécnica de Pernambuco - Universidade de Pernambuco (UPE)
       year: 2011
       description:
-        - TCC: Desenvolvimento de uma rede de sensores sem fio utilizando ZigBee para aplicações diversas.
+        - Trabalho de Conclusão de Curso - Desenvolvimento de uma rede de sensores sem fio utilizando ZigBee para aplicações diversas.
 
 - title: Experiência Profissional
   type: time_table

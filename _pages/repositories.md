@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositórios
+title: Repositórios
 description: Alguns repositórios no GitHub com projetos/informações legais.
 nav: true
 nav_order: 4

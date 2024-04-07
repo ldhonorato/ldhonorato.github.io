@@ -1,12 +1,18 @@
 github_users:
-  - torvalds
+  - ldhonorato
+  - fastai
+  - https-deeplearning-ai
+  - dipanjanS
   - alshedivat
 
 github_repos:
+  - macoj/phd
+  - ldhonorato/projetoELA
+  - agostinhofreire/Detecty
+  - mheriyanto/machine-learning-in-computer-vision
+  - fastai/fastbook
+  - dipanjanS/practical-machine-learning-with-python
+  - ldhonorato/contrastive_faster_rcnn
+  - m3y54m/Embedded-Engineering-Roadmap
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - pablovin/ChefsHatGYM

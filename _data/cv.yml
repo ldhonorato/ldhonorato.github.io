@@ -1,97 +1,80 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Nome
+      value: Leandro Honorato de Souza Silva
+    - name: Idiomas
+      value: Português, Inglês
 
-- title: Education
+- title: Formação Acadêmica
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doutorado em Engenharia da Computação
+      institution: Escola Politécnica de Pernambuco - Universidade de Pernambuco (UPE)
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Visão Computacional aplicada ao Suporte à Decisão para Reciclagem de Placas de Circuito Impresso.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Detecção de componentes eletrônico.
+            - Aprendizagem por Contraste.
+            - Aprendizagem semissupervisionada. 
+            - Reciclagem de placas de circuito impresso.
+    - title: Mestrado em Engenharia da Computação
+      institution: Escola Politécnica de Pernambuco - Universidade de Pernambuco (UPE)
+      year: 2013
       description:
-        - Description 1.
-        - Description 2.
+        - Aplicação de Reconhecimento de Padrões para Detecção de Chuva e Melhoria em Sistema de Classificação de Risco de Flashover em Linhas de Transmissão de Alta Tensão.
+    - title: Graduação em Engenharia da Computação
+      institution: Escola Politécnica de Pernambuco - Universidade de Pernambuco (UPE)
+      year: 2011
+      description:
+        - TCC: Desenvolvimento de uma rede de sensores sem fio utilizando ZigBee para aplicações diversas.
 
-- title: Experience
+- title: Experiência Profissional
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Especialista em Desenvolvimento de Hardware
+      institution: Fundação para Inovações Tecnológicas, FITEC
+      year: 2011 - 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Atividade de pesquisa/desenvolvimento em sistemas embarcados. 
+        - Desenvolvimento de software embarcado na linguagem C para microcontroladores ARM Cortex-M3, PSoC e PIC
+        - Desenvolvimento de esquema elétrico e Layout de PCBs, utilizando ferramenta CAD Altium
+        - Montagem e testes funcionais de placas de circuitos impressos; 
+        - Desenvolvimento de software embarcado em C# .Net e C++.
+    - title: Professor do Ensino Básico, Técnico e Tecnológico (EBTT)
+      institution: Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB
+      year: 2015-Atual
       description:
-        - Description 1.
-        - Description 2.
+        - title: Ensino, Engenharia de Controle e Automação
+        contents:
+        - Sistemas Digitais
+        - Sistemas Embarcados I
+        - title: Ensino, Curso Técnico em Eletromecânica
+        contents:
+        - Eletricidade Básica
+        - Circuitos Elétricos
+        - title: Direção e administração
+        contents:
+        - Coordenação da Unidade Acadêmica de Indústria
+        - title: Projetos de Pesquisa
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Linhas e Projetos de Pesquisa
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Visão Computacional
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Análise do Ruído nos Rótulos e sua Influência na Detecção de Objetos por Aprendizado Profundo.
+    - title: Aprendizagem de Máquina.
       items:
-        - Description 1.
-        - Description 2.
+        - Sistema de geração, análise e mineração de documentos jurídicos.
+        - Avaliação de modelos de aprendizagem profunda para previsão de condições climáticas em zonas portuárias.
+        - Inteligência Computacional aplicada a automação de ambientes educacionais
+    - title: Educação
+      items:
+       - Aplicativo para o Fomento de Estratégias Eficientes de Aprendizado e Gerenciamento de Tempo
 
-- title: Other Interests
+- title: Outros Interesses
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cafés, Música, Séries, Filmes e Livros (clássicos literários).

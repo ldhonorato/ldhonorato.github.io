@@ -119,8 +119,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog do prof. Leandro Honorato # blog_name will be displayed in your blog page
-blog_description: Explorando a Interseção entre Tecnologia e Experiências do Cotidiano
+blog_name: Bloco de Notas do prof. Leandro Honorato # blog_name will be displayed in your blog page
+blog_description: Anotações e ideias registradas de forma livre e irregular
 permalink: /blog/:year/:title/
 
 # Pagination

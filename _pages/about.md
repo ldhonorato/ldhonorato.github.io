@@ -2,7 +2,7 @@
 layout: about
 title: Sobre
 permalink: /
-subtitle: Professor no <a href='https://www.ifpb.edu.br/cajazeiras'>IFPB Campus Cajazeiras</a>. leandro.silva@ifpb.edu.br. <a href='http://lattes.cnpq.br/0772320262691243'>CV Lattes</a>
+subtitle: Professor no <a href='https://www.ifpb.edu.br/cajazeiras'>IFPB Campus Cajazeiras</a> | <a href="mailto:leandro.silva@ifpb.edu.br">leandro.silva@ifpb.edu.br</a> | <a href='http://lattes.cnpq.br/0772320262691243'>CV Lattes</a>
 
 profile:
   align: right

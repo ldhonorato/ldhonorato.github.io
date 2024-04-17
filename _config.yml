@@ -120,7 +120,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Bloco de Notas do prof. Leandro Honorato # blog_name will be displayed in your blog page
-blog_description: Anotações e ideias registradas de forma livre e irregular
+blog_description: Anotações registradas de forma livre e irregular
 permalink: /blog/:year/:title/
 
 # Pagination

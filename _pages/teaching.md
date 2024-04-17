@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Informações sobre o planejamento de disciplinas ministradas e outros materiais educacionais produzidos.
 nav: true
 nav_order: 6
-display_categories: [disciplinas]
+display_categories: [disciplinas, materiais]
 horizontal: false
 ---
 

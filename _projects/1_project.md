@@ -4,7 +4,7 @@ title: Sistemas Digitais
 description: Planejamento e materiais da disciplina
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: disciplina
 ---
 
 Every project has a beautiful feature showcase page.

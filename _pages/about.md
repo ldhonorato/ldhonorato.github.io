@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Olá, eu sou **Leandro**, **pai de Beatriz e Henrique**, **professor**, **doutor em Engenharia da Computação**, com experiência nas áreas de **sistemas embarcados**, **aprendizagem de máquina** e **visão computacional**. Entusiasta da **educação**, pesquisador e desenvolvedor de soluções de **inteligência computacional** e um aspirante a barista (apreciador de **cafés especiais**).
+Olá, eu sou **Leandro**, **pai de Beatriz e Henrique**, **casado com Poliana**, **professor doutor em Engenharia da Computação**, com experiência nas áreas de **sistemas embarcados**, **aprendizagem de máquina** e **visão computacional**. Entusiasta da **educação**, pesquisador e desenvolvedor de soluções de **inteligência computacional** e um aspirante a barista (apreciador de **cafés especiais**).
 
 Sou bacharel em Engenharia da Computação (2011) pela Escola Politécnica de Pernambuco da Universidade de Pernambuco (UPE/POLI). Após concluir minha graduação, atuei por quase cinco anos como Especialista em Desenvolvimento de Hardware, participando de projetos que envolviam desde a concepção de hardware até o desenvolvimento de software embarcado. Em paralelo, obtive o título de Mestre em Engenharia da Computação em 2013, cuja dissertação envolveu a exploração de técnicas de aprendizagem de máquina e reconhecimento de padrões em séries temporais de temperatura e umidade provenientes de uma rede de sensores.
 

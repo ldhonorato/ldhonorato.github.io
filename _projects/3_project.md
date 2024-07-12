@@ -3,7 +3,6 @@ layout: page
 title: Materiais Educacionais Diversos
 description: Algumas video-aulas produzidas
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: materiais
 ---

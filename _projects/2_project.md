@@ -4,8 +4,7 @@ title: Sistemas Embarcados
 description: Planejamento e materiais da disciplina
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: disciplinas
 ---
 
 Every project has a beautiful feature showcase page.

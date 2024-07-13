@@ -41,13 +41,13 @@ Sobre aquilo que eu falei sobre as referências que o livro traz, a primeira fra
 
 Mas, enfim, como eu afirmei anteriormente, dos aproximadamente 1/3 do livro que eu entendi, a sociedade disciplinar valoriza a obediência e é a sociedade do "não". Não é difícil perceber que a sociedade disciplinar está vinculada à negatividade. Já a sociedade do desempenho não se opõe completamente à disciplina, mas a leva para outro nível, dado que só a disciplina não é suficiente para maximizar a produção. A sociedade do desempenho está vinculada à positividade, a positividade do poder. 
 
-<blockquote>
-"O poder ilimitado é o verbo modal positivo da sociedade do desempenho""
-----
-"A positividade do poder é bem mais eficiente que a negatividade do dever".
-</blockquote>
 
-E aqui dois parágrafos concatenados de lugares diferentes do livro, mas que para mim resumem bem a ideia central:
+> "O poder ilimitado é o verbo modal positivo da sociedade do desempenho."
+> ----
+> "A positividade do poder é bem mais eficiente que a negatividade do dever."
+
+
+E aqui três passagens concatenadas de lugares diferentes do livro, mas que para mim resumem bem a ideia central:
 
 <blockquote>
 "O sujeito de desempenho da modernidade tardia não se submente a nenhum trabalho compulsório. Suas máximas não são obediência, lei e cumprimento do dever, mas liberdade e boa vontade. Do trabalho, espera acima de tudo alcançar prazer. Tampouco se trata de seguir o chamado de um outro. Ao contrário, ele ouve a si mesmo. Deve ser um empreendedor de si mesmo. Assim, ele se desvincula da negatividade das ordens do outro. Mas, essa liberdade do outro não só lhe proporciona emancipação e libertação. A dialética misteriosa da liberdade transforma essa liberdade em novas coações."
@@ -71,41 +71,26 @@ Recentemente, estava fazendo uma viagem de família e no momento do check-in em 
 
 Outra situação foi quando ainda de férias precisei fazer uma pequena compra em um mercado. Coisa que em um dia corrido comum eu demoraria algo em torno de 15 minutos, fazendo todo deslocamento de carro. De férias e precisando fazer atividade física, resolvi ir andando. Andando demorei exatos 45 minutos para realizar as compras, a maior parte do *tempo gasto* no deslocamento a pé. Um tempo sem celular/telas, observando o pulsar das ruas, o relevo das calçadas, as nuvens de chuva no céu, o pingo da chuva pregressa ao passar embaixo das árvores. Mas, uma preocupação de chegar logo, de voltar logo, de ser produtivo. Na volta lembrei da composição de Luiz Gonzaga e Humberto Teixeira:
 
-<blockquote>
-"Ai, ai, que bom
 
-Que bom, que bom que é
+> "Ai, ai, que bom
+> Que bom, que bom que é
+> Uma estrada e a lua branca
+> No sertão de Canindé
+> Artomove lá nem sabe se é home ou se é muié
+> Quem é rico anda em burrico
+> Quem é pobre anda a pé
+> Mas o pobre vê nas estrada
+> O orvaio beijando as flô
+> Vê de perto o galo campina
+> Que quando canta muda de cor
+> Vai moiando os pés no riacho
+> Que água fresca, nosso Senhor
+> Vai oiando coisa a grané
+> Coisas qui, pra mode vê
+> O cristão tem que andá a pé"
+> 
+> *Gonzaga, Luiz; Teixeira, Humberto. Estrada de Canindé. 1950.*
 
-Uma estrada e a lua branca
-
-No sertão de Canindé
-
-Artomove lá nem sabe se é home ou se é muié
-
-Quem é rico anda em burrico
-
-Quem é pobre anda a pé
-
-Mas o pobre vê nas estrada
-
-O orvaio beijando as flô
-
-Vê de perto o galo campina
-
-Que quando canta muda de cor
-
-Vai moiando os pés no riacho
-
-Que água fresca, nosso Senhor
-
-Vai oiando coisa a grané
-
-Coisas qui, pra mode vê
-
-O cristão tem que andá a pé"
-
-Gonzaga, Luiz; Teixeira, Humberto. Estrada de Canindé. 1950.
-</blockquote>
 
 # Outros trechos que chamaram minha atenção
 

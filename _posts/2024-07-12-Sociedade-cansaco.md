@@ -7,9 +7,9 @@ tags: resenha
 categories: resenha
 ---
 
-# Como cheguei no livro Sociedade do Cansaço
+# Como cheguei no livro
 
-Duas fontes me recomendaram esse livro[^1]. A primeira foi uma referência de uma palestra sobre saúde mental, proferida por um psicólogo. A segunda foi um reels do Instagram que listava livros para ler em um dia.
+Duas fontes me recomendaram o livro Sociedade do Cansaço[^1]. A primeira foi uma referência de uma palestra sobre saúde mental, proferida por um psicólogo. A segunda foi um reels do Instagram que listava livros para ler em um dia.
 
 Pesquisei na Amazon e encontrei uma versão de bolso, relativamente barato. Só 128 páginas, sendo que 50 páginas são só de anexo. A expectativa: vou ler rápido, então vou passar na frente da minha fila de leitura. A realidade: demorei quase 3 meses para finalizar o livro.
 
@@ -42,7 +42,8 @@ Sobre aquilo que eu falei sobre as referências que o livro traz, a primeira fra
 Mas, enfim, como eu afirmei anteriormente, dos aproximadamente 1/3 do livro que eu entendi, a sociedade disciplinar valoriza a obediência e é a sociedade do "não". Não é difícil perceber que a sociedade disciplinar está vinculada à negatividade. Já a sociedade do desempenho não se opõe completamente à disciplina, mas a leva para outro nível, dado que só a disciplina não é suficiente para maximizar a produção. A sociedade do desempenho está vinculada à positividade, a positividade do poder. 
 
 <blockquote>
-"O poder ilimitado é o verbo modal positivo da sociedade do desempenho"
+"O poder ilimitado é o verbo modal positivo da sociedade do desempenho""
+----
 "A positividade do poder é bem mais eficiente que a negatividade do dever".
 </blockquote>
 
@@ -72,21 +73,38 @@ Outra situação foi quando ainda de férias precisei fazer uma pequena compra e
 
 <blockquote>
 "Ai, ai, que bom
+
 Que bom, que bom que é
+
 Uma estrada e a lua branca
+
 No sertão de Canindé
+
 Artomove lá nem sabe se é home ou se é muié
+
 Quem é rico anda em burrico
+
 Quem é pobre anda a pé
+
 Mas o pobre vê nas estrada
+
 O orvaio beijando as flô
+
 Vê de perto o galo campina
+
 Que quando canta muda de cor
+
 Vai moiando os pés no riacho
+
 Que água fresca, nosso Senhor
+
 Vai oiando coisa a grané
+
 Coisas qui, pra mode vê
+
 O cristão tem que andá a pé"
+
+Gonzaga, Luiz; Teixeira, Humberto. Estrada de Canindé. 1950.
 </blockquote>
 
 # Outros trechos que chamaram minha atenção

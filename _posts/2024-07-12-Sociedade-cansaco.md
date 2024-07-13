@@ -43,9 +43,8 @@ Mas, enfim, como eu afirmei anteriormente, dos aproximadamente 1/3 do livro que 
 
 
 > "O poder ilimitado é o verbo modal positivo da sociedade do desempenho."
-> ----
-> "A positividade do poder é bem mais eficiente que a negatividade do dever."
 
+> "A positividade do poder é bem mais eficiente que a negatividade do dever."
 
 E aqui três passagens concatenadas de lugares diferentes do livro, mas que para mim resumem bem a ideia central:
 
@@ -73,21 +72,37 @@ Outra situação foi quando ainda de férias precisei fazer uma pequena compra e
 
 
 > "Ai, ai, que bom
+> 
 > Que bom, que bom que é
+> 
 > Uma estrada e a lua branca
+> 
 > No sertão de Canindé
+> 
 > Artomove lá nem sabe se é home ou se é muié
+> 
 > Quem é rico anda em burrico
+> 
 > Quem é pobre anda a pé
+> 
 > Mas o pobre vê nas estrada
+> 
 > O orvaio beijando as flô
+> 
 > Vê de perto o galo campina
+> 
 > Que quando canta muda de cor
+> 
 > Vai moiando os pés no riacho
+> 
 > Que água fresca, nosso Senhor
+> 
 > Vai oiando coisa a grané
+> 
 > Coisas qui, pra mode vê
+> 
 > O cristão tem que andá a pé"
+> 
 > 
 > *Gonzaga, Luiz; Teixeira, Humberto. Estrada de Canindé. 1950.*
 
